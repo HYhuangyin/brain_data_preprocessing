@@ -1,2 +1,2 @@
-# mri-pet_preprocessing
-the preprocessing of mri data and fdg-pet
+# brain_data_preprocessing
+the preprocessing of data in neuroscience
